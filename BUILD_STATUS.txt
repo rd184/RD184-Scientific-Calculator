@@ -1,0 +1,5 @@
+Build status: SOURCE PROJECT CREATED; APK NOT BUILT.
+Reason: the available execution environment has Java 21 and Kotlin compiler, but no Android SDK/platform android.jar, no sdkmanager, no adb, and no Gradle installation. Therefore an Android package cannot be compiled or installed/validated here.
+Mathematical engine: standalone Kotlin compilation successful.
+Automated checks: 21 mathematical engine checks passed.
+Android UI/runtime/device tests: not run.
